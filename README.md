@@ -1,6 +1,6 @@
 # <!DOCTYPE html>
 <html>
-    <title></title>
+    <title>MERN</title>
     <head><b>Web Devloper</b></head>
     <body>
         <h1 style="color:wheat">Sayyed Mohammad Adil</h1>
