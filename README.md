@@ -1,9 +1,9 @@
 # <!DOCTYPE html>
 <html>
     <title></title>
-    <head>Web Devloper</head>
+    <head><b>Web Devloper</b></head>
     <body>
-        <h1>Sayyed Mohammad Adil</h1>
-        <p1>Full Stack Web Devloper</p1>
+        <h1 style="color:wheat">Sayyed Mohammad Adil</h1>
+        <p1 style="font-family: Arial, Helvetica, sans-serif">Certified Full Stack Web Devloper</p1>
     </body>
 </html>
